@@ -366,7 +366,18 @@
 	margin-left: 40px;
 }
 .pancakes__right-block_karusel{
-	border: 1px solid black;
 	width: 100%;
 	height: 240px;
+	margin-left: 30px;
+	z-index: 100;
+}
+.pancakes__karusel_images{
+	padding:90px 10px 10px 20px;
+}
+.pancakes__right-block_img{
+	position: relative;
+    top: -156px;
+    left: 317px;
+    width: 146px;
+    z-index: 1;
 }

@@ -350,7 +350,13 @@
 	height: 50px;
 	width: 10px;
 }
-.pancakes__main-star_star-befor:hover{
-	
-}
 
+.pancakes__right-block{
+	background: white;
+    width: 466px;
+    height: 499px;
+    float: right;
+    position: relative;
+    top: -249px;
+
+}
